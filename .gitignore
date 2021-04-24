@@ -1,0 +1,9 @@
+ignore_those_files/*
+.idea/*
+build/*
+node_module/*
+java/*
+*~
+*.swp
+*.swo
+
