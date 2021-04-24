@@ -1,5 +1,4 @@
 ignore_those_files/*
-ignore_those_files\*
 ignore_those_files_too/*
 .idea/*
 build/*
